@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-hello message from master branch.
-=======
-hello message from dev branch.
->>>>>>> dev
